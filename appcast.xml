@@ -6,6 +6,18 @@
     <description>Updates for Minutes for Mac</description>
     <language>en</language>
     <item>
+      <title>Minutes 1.0.0 (69)</title>
+      <pubDate>Tue, 20 Oct 2026 17:39:40 +0000</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Meetings started from your calendar always record call audio and your microphone</li>
+<li>Clicking meetings in the list selects them again</li>
+<li>Search sits at the top right in every section and also searches People</li>
+<li>Faster meeting list</li></ul>]]></description>
+      <enclosure url="https://github.com/omniharmonic/minutes-releases/releases/download/v1.0.0-69/Minutes-1.0.0-69.zip" sparkle:edSignature="FCNFZfGdEA6hpmNBXUGs+y5XM4T1DZZmiAmHkYL4Wc2Z/k9eLk+zncmAotSaaqfhe6jSraaXPWMnQuqjlTOaBA==" length="17326536" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Minutes 1.0.0 (66)</title>
       <pubDate>Tue, 20 Oct 2026 16:18:15 +0000</pubDate>
       <sparkle:version>66</sparkle:version>
