@@ -5,5 +5,19 @@
     <link>https://github.com/omniharmonic/minutes-releases</link>
     <description>Updates for Minutes for Mac</description>
     <language>en</language>
+    <item>
+      <title>Minutes 1.0.0 (66)</title>
+      <pubDate>Tue, 20 Oct 2026 16:18:15 +0000</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Meeting page with a waveform player, clickable summary timecodes and a Moments column beside the transcript</li>
+<li>Mark moments while recording with the bookmark button or Command-B</li>
+<li>iCloud sync between your Mac and iPhone (Settings, Sync)</li>
+<li>Save meetings to your own Parachute vault with a real sign-in</li>
+<li>Choose which Google calendars appear, by name</li>
+<li>Automatic updates</li></ul>]]></description>
+      <enclosure url="https://github.com/omniharmonic/minutes-releases/releases/download/v1.0.0-66/Minutes-1.0.0-66.zip" sparkle:edSignature="rE+1+gaeW/b7nJ2QfZhCs0L3fm0kST/GwrH2VBndKt3Y266i/HdsRVYHLwDKOTqPRxOkltoFBX3FX8bYehT0CQ==" length="17331055" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
