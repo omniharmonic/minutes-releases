@@ -6,6 +6,18 @@
     <description>Updates for Minutes for Mac</description>
     <language>en</language>
     <item>
+      <title>Minutes 1.0.0 (71)</title>
+      <pubDate>Wed, 21 Oct 2026 19:01:29 +0000</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Long recordings keep processing after you leave the app, with stage and progress shown</li>
+<li>Summaries retry when Apple's on-device model is busy, and finish on their own the next time Minutes is open</li>
+<li>Live captions group speakers far more accurately (3 speakers on a 3-person call, not dozens)</li>
+<li>Fewer summary requests for long meetings on newer systems</li></ul>]]></description>
+      <enclosure url="https://github.com/omniharmonic/minutes-releases/releases/download/v1.0.0-71/Minutes-1.0.0-71.zip" sparkle:edSignature="C7RdA3L7ero20loNBB9umdCKwfoN7v3U7aN1GXVMtSE2ifFNe6un/9ZnOsd1S9jKpXWmh7CFMcaqIaJAsDhyDg==" length="17420907" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Minutes 1.0.0 (70)</title>
       <pubDate>Tue, 20 Oct 2026 18:52:56 +0000</pubDate>
       <sparkle:version>70</sparkle:version>
