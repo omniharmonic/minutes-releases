@@ -6,6 +6,18 @@
     <description>Updates for Minutes for Mac</description>
     <language>en</language>
     <item>
+      <title>Minutes 1.0.0 (72)</title>
+      <pubDate>Wed, 04 Nov 2026 23:37:18 +0000</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Parachute: sign in to your own vault; meetings save automatically, one note per meeting across Mac and iPhone</li>
+<li>Parachute: notes go to your transcript inbox so your agents can process them; Minutes stops updating a note once someone edits or moves it</li>
+<li>Speakers are named automatically from voices you chose to remember, before the summary is written (Settings → Speakers)</li>
+<li>Renaming a speaker updates the summary and the vault note</li></ul>]]></description>
+      <enclosure url="https://github.com/omniharmonic/minutes-releases/releases/download/v1.0.0-72/Minutes-1.0.0-72.zip" sparkle:edSignature="9/iRsHrr8P7akcBrHH4FAubAEuJiL72BIpyrtLuLfGAsqIiTICgVtpMNEinDl3QGomjygZ80lqsLeCQYUBBTDA==" length="17524701" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Minutes 1.0.0 (71)</title>
       <pubDate>Wed, 21 Oct 2026 19:01:29 +0000</pubDate>
       <sparkle:version>71</sparkle:version>
